@@ -1,4 +1,4 @@
 ﻿
-Personal project "Technomart"
-Diakonashvili Zurab
-https://htmlacademy.ru/profile/id86410
+# Personal project "Technomart"
+### Diakonashvili Zurab
+Demo: https://htmlacademy.ru/profile/id86410
